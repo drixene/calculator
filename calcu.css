@@ -1,0 +1,37 @@
+*{
+    background-color: gray;
+}
+.calculator {
+    width: 335px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: black;
+}
+
+.calculator input[type="text"] {
+    width: 89%;
+    margin: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.calculator button {
+    width: 70px;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+    
+}
+.ac{
+    background-color: red;
+}
+.B{
+    background-color: rgb(0, 141, 218);
+}
+.a{
+    background-color: gray;
+}
